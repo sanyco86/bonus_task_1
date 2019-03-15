@@ -1,0 +1,8 @@
+.idea
+.git
+*.keep
+.DS_Store
+/trash
+*/tmp/*
+*/files/result.json
+data_large.txt
